@@ -1,5 +1,9 @@
 html {
-    background: url('http://il8.picdn.net/shutterstock/videos/15390907/thumb/1.jpg');
+    background: url('http://il8.picdn.net/shutterstock/videos/15390907/thumb/1.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .page {
