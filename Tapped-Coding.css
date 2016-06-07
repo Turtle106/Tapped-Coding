@@ -15,7 +15,6 @@ html {
     width: 100%;
     background-color: darkgrey;
     position: fixed;
-    box-shadow: inset 10px 10px 10px 10px black;
 }
 
 .jumbotron {
