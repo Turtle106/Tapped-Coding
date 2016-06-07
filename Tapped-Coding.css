@@ -20,6 +20,11 @@ html {
 .jumbotron {
 }
 
+.container {
+    width: 80%;
+    height: 60%;
+}
+
 .footer {
     height: 70px;
     width: 100%;
