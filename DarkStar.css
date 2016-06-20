@@ -1,0 +1,47 @@
+@import 'https://fonts.googleapis.com/css?family=Akronim';
+@import 'https://fonts.googleapis.com/css?family=Petit+Formal+Script';
+
+.page {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+header {
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100%;
+    z-index: 1;
+    color: rgba(255,255,255,0.8);
+    font-family: 'Akronim', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1 {
+    font-family: 'Akronim', cursive;
+}
+
+p {
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+.conatiner {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0,0,0,0.5);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    border: 1px solid white;
+    padding: 3px 100px 0px 100px;
+    border-spacing: 30px;
+}
